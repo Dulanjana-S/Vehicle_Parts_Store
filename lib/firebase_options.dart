@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD95p5ckkGFB-jLSlx3C3Ic-ws10s3oQEs',
+    apiKey: '--------------------------------------',
     appId: '1:421092657942:web:84c58c0cad3afa71e3de37',
     messagingSenderId: '421092657942',
     projectId: 'vehicle-parts-store',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDTbEQl2XxT_fBVDQBOUMmmmNkFvyRr_qc',
+    apiKey: '-----------------------------------------',
     appId: '1:421092657942:android:8a052df073c74500e3de37',
     messagingSenderId: '421092657942',
     projectId: 'vehicle-parts-store',
